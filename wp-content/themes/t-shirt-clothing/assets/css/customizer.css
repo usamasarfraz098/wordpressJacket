@@ -1,0 +1,70 @@
+/*Cutomizer CSS*/
+#accordion-section-t_shirt_clothing_pro h3.accordion-section-title{
+	background: #e5523e;
+	color:#ffffff;
+}
+#customize-controls #accordion-section-t_shirt_clothing_pro .accordion-section-title:focus, #customize-controls #accordion-section-t_shirt_clothing_pro .accordion-section-title:hover, #customize-controls #accordion-section-t_shirt_clothing_pro.open .accordion-section-title, #customize-controls #accordion-section-t_shirt_clothing_pro:hover>.accordion-section-title{
+  background: #e5523e;
+  color: #fff;
+}
+#customize-theme-controls #accordion-section-t_shirt_clothing_pro .accordion-section-title:after{
+  color:#ffffff;
+}
+#customize-controls .control-section .accordion-section-title:hover,#customize-controls .control-section .accordion-section-title:focus{
+  border-left-color: #e5523e !important;
+}
+.btn-lg, .btn-group-lg > .btn {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 6px;
+}
+.upsell-btn > .btn-success {
+  color: #ffffff !important;
+  background: #e5523e !important;
+  text-decoration: none;
+}
+.upsell-btn{
+  margin-bottom: 20px;
+  margin-top: 10px;
+  text-align: center;
+}
+.upsell-btn-bottom{
+  margin-top:20px;
+}
+.upsell-btn > a.btn.btn-success.btn {
+  padding: 10px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+/*Custom head*/
+span.title.head-customize-control-title {
+  padding: 10px;
+    background-color: #EFF9FF;
+    border: 1px solid #D6F0FF;
+    border-radius: 0;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 30px;
+    margin-bottom:5px;
+}
+li.customize-control {
+    border-bottom: 1px solid #ddd;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    margin-bottom: 0 !important;
+}
+li.customize-control-section {
+    padding: 0 !important;
+    border: none !important;
+}
+.head-customize-section-description.cus-head{
+  margin-top: 22px; 
+}
+li.customize-section-description-container.section-meta {
+    margin-bottom: 0;
+}
+.customize-control-title{
+  font-weight: bold;
+}

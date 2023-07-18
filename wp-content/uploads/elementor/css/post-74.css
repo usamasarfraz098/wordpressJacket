@@ -1,0 +1,32 @@
+.elementor-74 .elementor-element.elementor-element-c95e718 > .elementor-container{max-width:800px;}.elementor-74 .elementor-element.elementor-element-c2ff936 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-74 .elementor-element.elementor-element-c2ff936 .aux-modern-heading-primary{font-family:"Poppins", Sans-serif;font-size:52px;font-weight:300;text-transform:uppercase;letter-spacing:15px;color:#111111;}.elementor-74 .elementor-element.elementor-element-c2ff936{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-74 .elementor-element.elementor-element-51924a8 > .elementor-widget-container{margin:40px 0px 0px 0px;}.elementor-74 .elementor-element.elementor-element-51924a8{animation-delay:150ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-74 .elementor-element.elementor-element-32ea13b > .elementor-container{max-width:800px;}.elementor-74 .elementor-element.elementor-element-48712b4 > .elementor-widget-container{margin:35px 0px 0px 0px;}.elementor-74 .elementor-element.elementor-element-48712b4{animation-delay:300ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-74 .elementor-element.elementor-element-75f92e3 > .elementor-widget-container{margin:40px 0px 0px 0px;}.elementor-74 .elementor-element.elementor-element-75f92e3{animation-delay:450ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-74 .elementor-element.elementor-element-3a3646f input:not([type="submit"]){transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-3a3646f input[type="text"]{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-3a3646f input[type="email"]{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-3a3646f select{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-3a3646f textarea{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-3a3646f input[type="submit"]{transition:all ease-out 0.3s;}.elementor-74 .elementor-element.elementor-element-3a3646f > .elementor-widget-container{margin:35px 0px 0px 0px;}.elementor-74 .elementor-element.elementor-element-3a3646f{animation-delay:550ms;}@media(max-width:767px){.elementor-74 .elementor-element.elementor-element-ab5fca6 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 35px 0px 35px;}}/* Start custom CSS for aux_contact_form, class: .elementor-element-3a3646f */.elementor-74 .elementor-element.elementor-element-3a3646f .wpcf7-form label{
+    font-size: 16px;
+    line-height: 25.89px;
+}
+
+.elementor-74 .elementor-element.elementor-element-3a3646f .wpcf7-form .wpcf7-form-control{
+    margin-top: 20px;    
+}
+
+.elementor-74 .elementor-element.elementor-element-3a3646f .wpcf7-form .wpcf7-text{
+    padding: 28px 20px !important;
+}
+
+.elementor-74 .elementor-element.elementor-element-3a3646f .wpcf7-form .wpcf7-textarea{
+    min-height: 150px;
+}
+
+.elementor-74 .elementor-element.elementor-element-3a3646f .wpcf7-form .wpcf7-submit{
+    margin: 0;
+}
+
+.elementor-74 .elementor-element.elementor-element-3a3646f .wpcf7-submit.aux-button{
+    background-color: var(--auxin-featured-color-8);
+    border-radius: 20px;
+    padding: 12px 25px;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: var(--auxin-featured-color-5);
+    text-shadow: none;
+}/* End custom CSS */
